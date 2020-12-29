@@ -1,5 +1,5 @@
 California, USA
-Uttrakhand,India
+Dehradun, india
 
 Irvine, California
 Ambikapur, India
@@ -168,7 +168,7 @@ Sirsa, India
 Shahabad Markanda, India
 Punjab, India
 Bulandshahr, India
-Jalpaiguri, India
+
 Patiala, India
 Udaipur, Rajasthan
 Lucknow, India
